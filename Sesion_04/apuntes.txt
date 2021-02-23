@@ -1,0 +1,4 @@
+lista []: si se puede modificad (array) 
+tupla() las tuplas no se pueden editar
+diccionario = {} // es como un obj en js
+__init__ = constructor
