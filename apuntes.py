@@ -16,7 +16,6 @@ value[0]                #d
 value[0:3]              #[0:3>  
 value[3:]              #<3:  
 value[::-1]              #<3:  
-len()                   #d
 
 contrasena.append(randon_element) #añade elementos
 pass_final="".join(contrasena) #unir los elementos
